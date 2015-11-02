@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 4dcbc2ad60199d7448bf170cf42ce265
+timeCreated: 1446403086
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: capuchas_0
+    21300002: capuchas_1
+    21300004: capuchas_2
+    21300006: capuchas_3
+    21300008: capuchas_4
+    21300010: capuchas_5
+    21300012: capuchas_6
+    21300014: capuchas_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: capuchas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 338
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: capuchas_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 551
+        width: 328
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: capuchas_2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 578
+        width: 300
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: capuchas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 298
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: capuchas_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 281
+        width: 274
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: capuchas_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 271
+        width: 248
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: capuchas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 286
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: capuchas_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 248
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
